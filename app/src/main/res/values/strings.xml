@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjetoFinal</string>
+    <string name="action_settings">Settings</string>
+    <string name="lo_et_login">Login</string>
+    <string name="lo_et_senha">Senha</string>
+    <string name="ma_et_nome">Nome</string>
+    <string name="ma_rd_feminino">Feminino</string>
+    <string name="ma_rd_masculino">Masculino</string>
+    <string name="ma_et_cidade">Cidade</string>
+    <string name="title_activity_tela_navegacao">TelaNavegacao</string>
+    <string name="title_activity_tela_menu">TelaMenu</string>
+</resources>
